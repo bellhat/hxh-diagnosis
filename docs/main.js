@@ -1,5 +1,6 @@
 let currentQuestionIndex = 0;
 let questions = [];
+let characters = [];  // ✅ キャラクター配列を初期化
 let userScores = {
   "強化系": 0,
   "変化系": 0,
@@ -52,9 +53,12 @@ function answer(isYes) {
 // イベントリスナーの設定
 window.onload = async () => {
   if (window.location.pathname.includes("result.html")) {
-    await loadCharacters();
-    showResult();
+    // 結果ページの場合
+    await loadCharacters();  // ✅ キャラクター読み込み完了を待つ
+    console.log("✓ showResult実行");
+    showResult();  // characters配列が確実に読み込まれた後に実行
   } else {
+    // 診断ページの場合
     if (document.getElementById("yesBtn") && document.getElementById("noBtn")) {
       document.getElementById("yesBtn").addEventListener("click", () => answer(true));
       document.getElementById("noBtn").addEventListener("click", () => answer(false));
@@ -65,8 +69,14 @@ window.onload = async () => {
 
 // キャラクター読み込み
 async function loadCharacters() {
-  const res = await fetch("characters.json");
-  characters = await res.json();
+  try {
+    const res = await fetch("characters.json");
+    if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
+    characters = await res.json();
+    console.log(`✓ ${characters.length} キャラクター読み込み完了`);
+  } catch (err) {
+    console.error("キャラクターの読み込みに失敗しました", err);
+  }
 }
 
 // シンボル表示用マッピング
@@ -108,8 +118,24 @@ function showResult() {
   const sorted = Object.entries(scores).sort((a, b) => b[1] - a[1]);
   const topType = sorted[0][0];
 
+  // ✅ キャラクターが正しく読み込まれたか確認
+  if (!characters || characters.length === 0) {
+    console.error("エラー: キャラクターデータが読み込まれていません");
+    document.getElementById("result-system").textContent = "データ読み込みエラー";
+    return;
+  }
+
   const matching = characters.filter(c => c.系統 === topType);
+  if (matching.length === 0) {
+    console.error(`エラー: ${topType}のキャラクターが見つかりません`);
+    return;
+  }
+
   const char = matching[Math.floor(Math.random() * matching.length)];
+
+  console.log(`✓ 診断結果: ${char.name} (${topType})`);
+  console.log(`  - iconSymbol: ${char.iconSymbol}`);
+  console.log(`  - iconColor: ${char.iconColor}`);
 
   document.getElementById("result-system").textContent = `${char.name}（${topType}）`;
 
@@ -117,25 +143,28 @@ function showResult() {
   const imagePath = `assets/${char.name.replace(/=/g, "_")}.png`;
   const imageContainer = document.getElementById("character-image");
 
+  // ✅ CSSアイコン表示用のシステムカラーマッピング
+  const systemColorMap = {
+    "強化系": "icon-kouka",
+    "変化系": "icon-henka",
+    "具現化系": "icon-gugenka",
+    "放出系": "icon-houshutsu",
+    "操作系": "icon-sosa",
+    "特質系": "icon-tokushitsu"
+  };
+
+  const symbolEmoji = symbolEmojis[char.iconSymbol] || "◯";
+  const colorClass = systemColorMap[topType];
+
   // 画像表示を試みるが、失敗時はCSSアイコンを表示
   const img = new Image();
   img.onload = () => {
     imageContainer.innerHTML = `<img src="${imagePath}" alt="${char.name}" class="character-image" />`;
+    console.log(`✓ 画像ファイル表示: ${imagePath}`);
   };
   img.onerror = () => {
     // 画像読み込み失敗時 → CSSアイコン表示
-    const systemColorMap = {
-      "強化系": "icon-kouka",
-      "変化系": "icon-henka",
-      "具現化系": "icon-gugenka",
-      "放出系": "icon-houshutsu",
-      "操作系": "icon-sosa",
-      "特質系": "icon-tokushitsu"
-    };
-
-    const symbolEmoji = symbolEmojis[char.iconSymbol] || "◯";
-    const colorClass = systemColorMap[topType];
-
+    console.log(`✓ CSSアイコン表示: ${symbolEmoji} ${colorClass}`);
     imageContainer.innerHTML = `
       <div class="character-icon ${colorClass}" role="img" aria-label="${char.name}（${topType}）">
         ${symbolEmoji}

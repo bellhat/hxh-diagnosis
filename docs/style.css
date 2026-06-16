@@ -97,3 +97,128 @@ h2 {
   font-size: 0.8rem;
   color: #888;
 }
+
+/* ============================================================ */
+/* キャラクター診断アイコン */
+/* ============================================================ */
+
+/* アイコン基本スタイル */
+.character-icon {
+  width: 200px;
+  height: 200px;
+  margin: 1.5rem auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  font-size: 80px;
+  font-weight: bold;
+  position: relative;
+  box-shadow: 0 0 30px currentColor, inset 0 0 20px rgba(0, 0, 0, 0.3);
+  animation: icon-pulse 3s ease-in-out infinite;
+}
+
+@keyframes icon-pulse {
+  0%, 100% {
+    transform: scale(1);
+    box-shadow: 0 0 30px currentColor, inset 0 0 20px rgba(0, 0, 0, 0.3);
+  }
+  50% {
+    transform: scale(1.05);
+    box-shadow: 0 0 50px currentColor, inset 0 0 30px rgba(0, 0, 0, 0.5);
+  }
+}
+
+/* 念系統別カラースキーマ */
+
+/* 強化系（赤） */
+.icon-kouka {
+  color: #e74c3c;
+  background: linear-gradient(135deg, rgba(231, 76, 60, 0.2), rgba(192, 57, 43, 0.2));
+  text-shadow: 0 0 20px rgba(231, 76, 60, 0.8);
+}
+
+/* 変化系（青） */
+.icon-henka {
+  color: #3498db;
+  background: linear-gradient(135deg, rgba(52, 152, 219, 0.2), rgba(41, 128, 185, 0.2));
+  text-shadow: 0 0 20px rgba(52, 152, 219, 0.8);
+}
+
+/* 具現化系（紫） */
+.icon-gugenka {
+  color: #9b59b6;
+  background: linear-gradient(135deg, rgba(155, 89, 182, 0.2), rgba(142, 68, 173, 0.2));
+  text-shadow: 0 0 20px rgba(155, 89, 182, 0.8);
+}
+
+/* 放出系（オレンジ） */
+.icon-houshutsu {
+  color: #f39c12;
+  background: linear-gradient(135deg, rgba(243, 156, 18, 0.2), rgba(230, 126, 34, 0.2));
+  text-shadow: 0 0 20px rgba(243, 156, 18, 0.8);
+}
+
+/* 操作系（青緑） */
+.icon-sosa {
+  color: #16a085;
+  background: linear-gradient(135deg, rgba(22, 160, 133, 0.2), rgba(26, 188, 156, 0.2));
+  text-shadow: 0 0 20px rgba(22, 160, 133, 0.8);
+}
+
+/* 特質系（紫-黒） */
+.icon-tokushitsu {
+  color: #8e44ad;
+  background: linear-gradient(135deg, rgba(142, 68, 173, 0.2), rgba(108, 52, 131, 0.2));
+  text-shadow: 0 0 20px rgba(142, 68, 173, 0.8);
+}
+
+/* フォールバック通知 */
+.icon-fallback-notice {
+  margin-top: 1rem;
+  font-size: 0.85rem;
+  color: #888;
+  font-style: italic;
+}
+
+/* キャラクター画像表示エリア */
+#character-image {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* 実際の画像ファイルが存在する場合 */
+.character-image {
+  max-width: 250px;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 255, 255, 0.3);
+}
+
+/* モバイル対応 */
+@media (max-width: 600px) {
+  .character-icon {
+    width: 150px;
+    height: 150px;
+    font-size: 60px;
+  }
+
+  .character-image {
+    max-width: 180px;
+  }
+
+  .icon-fallback-notice {
+    font-size: 0.75rem;
+  }
+}
+
+/* タブレット対応 */
+@media (min-width: 601px) and (max-width: 1024px) {
+  .character-icon {
+    width: 180px;
+    height: 180px;
+    font-size: 70px;
+  }
+}

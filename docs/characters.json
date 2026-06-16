@@ -5,7 +5,10 @@
     "name":"ゴン＝フリークス",
     "ability":"ジャジャン拳（グー）",
     "traits":"単純で一直線、好奇心旺盛",
-    "note":"典型的な強化系"
+    "note":"典型的な強化系",
+    "iconColor":"#e74c3c",
+    "colorClass":"icon-kouka",
+    "iconSymbol":"fist"
   },
   {
     "id":2,
@@ -13,7 +16,10 @@
     "name":"ウボォーギン",
     "ability":"超破壊拳（ビッグバンインパクト）",
     "traits":"単純で豪快、戦闘狂",
-    "note":"幻影旅団No.11"
+    "note":"幻影旅団No.11",
+    "iconColor":"#e74c3c",
+    "colorClass":"icon-kouka",
+    "iconSymbol":"fire"
   },
   {
     "id":3,
@@ -21,7 +27,10 @@
     "name":"フィンクス",
     "ability":"廻天（回すほど威力UP）",
     "traits":"短気、喧嘩好き",
-    "note":"旅団No.5"
+    "note":"旅団No.5",
+    "iconColor":"#e74c3c",
+    "colorClass":"icon-kouka",
+    "iconSymbol":"star"
   },
   {
     "id":4,
@@ -29,7 +38,10 @@
     "name":"レオリオ＝パラディナイト",
     "ability":"遠隔パンチ（未完成放出系寄り）",
     "traits":"熱血漢、人情派",
-    "note":"元医学生"
+    "note":"元医学生",
+    "iconColor":"#e74c3c",
+    "colorClass":"icon-kouka",
+    "iconSymbol":"boom"
   },
   {
     "id":5,
@@ -37,7 +49,10 @@
     "name":"ハンゾー",
     "ability":"忍術系能力（詳細不明）",
     "traits":"忍耐強く忠義者",
-    "note":"忍者ハンター"
+    "note":"忍者ハンター",
+    "iconColor":"#e74c3c",
+    "colorClass":"icon-kouka",
+    "iconSymbol":"fist"
   },
   {
     "id":6,
@@ -45,7 +60,10 @@
     "name":"ビル",
     "ability":"護衛任務、肉体強化タイプ",
     "traits":"実直で誠実",
-    "note":"王位継承編・クラピカの護衛"
+    "note":"王位継承編・クラピカの護衛",
+    "iconColor":"#e74c3c",
+    "colorClass":"icon-kouka",
+    "iconSymbol":"fire"
   },
   {
     "id":7,
@@ -53,7 +71,10 @@
     "name":"ベンジャミン＝ホイコーロ",
     "ability":"忠臣の能力を継承する",
     "traits":"豪胆で軍人気質",
-    "note":"第1王子、念は強化系ベース"
+    "note":"第1王子、念は強化系ベース",
+    "iconColor":"#e74c3c",
+    "colorClass":"icon-kouka",
+    "iconSymbol":"star"
   },
   {
     "id":8,
@@ -61,7 +82,10 @@
     "name":"バモッサ",
     "ability":"念弾（打撃＋オーラ）",
     "traits":"実直で筋肉派",
-    "note":"キメラアント討伐隊"
+    "note":"キメラアント討伐隊",
+    "iconColor":"#e74c3c",
+    "colorClass":"icon-kouka",
+    "iconSymbol":"boom"
   },
   {
     "id":9,
@@ -69,7 +93,10 @@
     "name":"ラモット",
     "ability":"自己強化・再生能力",
     "traits":"狂気と好戦性",
-    "note":"キメラアント兵隊長"
+    "note":"キメラアント兵隊長",
+    "iconColor":"#e74c3c",
+    "colorClass":"icon-kouka",
+    "iconSymbol":"fist"
   },
   {
     "id":10,
@@ -77,7 +104,10 @@
     "name":"ブロヴーダ",
     "ability":"巨体と超怪力",
     "traits":"知能は低め",
-    "note":"キメラアント王直属護衛候補"
+    "note":"キメラアント王直属護衛候補",
+    "iconColor":"#e74c3c",
+    "colorClass":"icon-kouka",
+    "iconSymbol":"fire"
   },
   {
     "id":11,
@@ -85,7 +115,10 @@
     "name":"ナックル＝バイン",
     "ability":"天上不知唯我独損（ハコワレ）",
     "traits":"熱血、涙もろい",
-    "note":"放出寄りの強化型タイプ"
+    "note":"放出寄りの強化型タイプ",
+    "iconColor":"#e74c3c",
+    "colorClass":"icon-kouka",
+    "iconSymbol":"star"
   },
   {
     "id":12,
@@ -93,7 +126,10 @@
     "name":"ゴレイヌ",
     "ability":"ゴリラ具現化＋瞬間移動",
     "traits":"真面目、努力家",
-    "note":"具現化だが殴りが主体"
+    "note":"具現化だが殴りが主体",
+    "iconColor":"#e74c3c",
+    "colorClass":"icon-kouka",
+    "iconSymbol":"boom"
   },
   {
     "id":13,
@@ -101,7 +137,10 @@
     "name":"ビスケット＝クルーガー",
     "ability":"真の姿は筋肉質な怪力女",
     "traits":"厳格だが情もある",
-    "note":"強化＋変化の複合系とも言える"
+    "note":"強化＋変化の複合系とも言える",
+    "iconColor":"#e74c3c",
+    "colorClass":"icon-kouka",
+    "iconSymbol":"fist"
   },
   {
     "id":14,
@@ -109,7 +148,10 @@
     "name":"ズシ",
     "ability":"リールベルトで特訓中の少年",
     "traits":"真面目で向上心あり",
-    "note":"強化系修行中（未覚醒）"
+    "note":"強化系修行中（未覚醒）",
+    "iconColor":"#e74c3c",
+    "colorClass":"icon-kouka",
+    "iconSymbol":"fire"
   },
   {
     "id":15,
@@ -117,7 +159,10 @@
     "name":"カミーラの私設兵（不明名）",
     "ability":"巨体での肉弾戦が得意",
     "traits":"無口で忠誠心高い",
-    "note":"王位継承編"
+    "note":"王位継承編",
+    "iconColor":"#e74c3c",
+    "colorClass":"icon-kouka",
+    "iconSymbol":"star"
   },
   {
     "id":16,
@@ -125,7 +170,10 @@
     "name":"ゴトー",
     "ability":"硬貨を投擲する技",
     "traits":"忠誠心高く冷静",
-    "note":"ゾルディック家執事（強化＋操作傾向）"
+    "note":"ゾルディック家執事（強化＋操作傾向）",
+    "iconColor":"#e74c3c",
+    "colorClass":"icon-kouka",
+    "iconSymbol":"boom"
   },
   {
     "id":17,
@@ -133,7 +181,10 @@
     "name":"ウェルフィン",
     "ability":"狼型アンテナ・尻尾ミサイル",
     "traits":"怒りでパワーアップ",
-    "note":"キメラアント、感情が力になるタイプ"
+    "note":"キメラアント、感情が力になるタイプ",
+    "iconColor":"#e74c3c",
+    "colorClass":"icon-kouka",
+    "iconSymbol":"fist"
   },
   {
     "id":18,
@@ -141,7 +192,10 @@
     "name":"カートン",
     "ability":"遺跡発掘系ハンター",
     "traits":"体術特化",
-    "note":"非戦闘型強化"
+    "note":"非戦闘型強化",
+    "iconColor":"#e74c3c",
+    "colorClass":"icon-kouka",
+    "iconSymbol":"fire"
   },
   {
     "id":19,
@@ -149,7 +203,10 @@
     "name":"スカウト兵A（GIモブ）",
     "ability":"素手格闘＋強化技",
     "traits":"地味だけど手堅い",
-    "note":"ゲーム内NPC"
+    "note":"ゲーム内NPC",
+    "iconColor":"#e74c3c",
+    "colorClass":"icon-kouka",
+    "iconSymbol":"star"
   },
   {
     "id":20,
@@ -157,7 +214,10 @@
     "name":"ハチマキの旅団モブ（クロロ戦）",
     "ability":"棍棒の一撃特化",
     "traits":"無口で従順",
-    "note":"具現寄り＋強化"
+    "note":"具現寄り＋強化",
+    "iconColor":"#e74c3c",
+    "colorClass":"icon-kouka",
+    "iconSymbol":"boom"
   },
   {
     "id":21,
@@ -165,7 +225,10 @@
     "name":"キルア＝ゾルディック",
     "ability":"電気変化（神速・雷掌など）",
     "traits":"クールで合理主義",
-    "note":"変化系代表格"
+    "note":"変化系代表格",
+    "iconColor":"#3498db",
+    "colorClass":"icon-henka",
+    "iconSymbol":"zap"
   },
   {
     "id":22,
@@ -173,7 +236,10 @@
     "name":"ヒソカ＝モロウ",
     "ability":"バンジーガム（ゴム＋ガム）",
     "traits":"気分屋・戦闘狂",
-    "note":"変化系の天才型"
+    "note":"変化系の天才型",
+    "iconColor":"#3498db",
+    "colorClass":"icon-henka",
+    "iconSymbol":"wave"
   },
   {
     "id":23,
@@ -181,7 +247,10 @@
     "name":"マチ＝コマチネ",
     "ability":"念糸（自在に伸縮・変化）",
     "traits":"無愛想・職人気質",
-    "note":"旅団の治療役も担当"
+    "note":"旅団の治療役も担当",
+    "iconColor":"#3498db",
+    "colorClass":"icon-henka",
+    "iconSymbol":"cycle"
   },
   {
     "id":24,
@@ -189,7 +258,10 @@
     "name":"ゼノ＝ゾルディック",
     "ability":"龍星群（ドラゴンダイブ）",
     "traits":"老練で冷静",
-    "note":"流法も多様"
+    "note":"流法も多様",
+    "iconColor":"#3498db",
+    "colorClass":"icon-henka",
+    "iconSymbol":"wind"
   },
   {
     "id":25,
@@ -197,7 +269,10 @@
     "name":"シルバ＝ゾルディック",
     "ability":"オーラ球（変化系ベース）",
     "traits":"無口・厳格",
-    "note":"超上級念能力者"
+    "note":"超上級念能力者",
+    "iconColor":"#3498db",
+    "colorClass":"icon-henka",
+    "iconSymbol":"zap"
   },
   {
     "id":26,
@@ -205,7 +280,10 @@
     "name":"イカルゴ",
     "ability":"タコ型だが死体操作",
     "traits":"義理堅く、仲間思い",
-    "note":"本来は変化系寄り行動型"
+    "note":"本来は変化系寄り行動型",
+    "iconColor":"#3498db",
+    "colorClass":"icon-henka",
+    "iconSymbol":"wave"
   },
   {
     "id":27,
@@ -213,7 +291,10 @@
     "name":"サブ",
     "ability":"形状変化（推測）",
     "traits":"無口・忠実",
-    "note":"ゲンスルーパーティの一人"
+    "note":"ゲンスルーパーティの一人",
+    "iconColor":"#3498db",
+    "colorClass":"icon-henka",
+    "iconSymbol":"cycle"
   },
   {
     "id":28,
@@ -221,7 +302,10 @@
     "name":"バラ",
     "ability":"巨大化オーラ（推測）",
     "traits":"冷酷・沈着",
-    "note":"ゲンスルーパーティの一人"
+    "note":"ゲンスルーパーティの一人",
+    "iconColor":"#3498db",
+    "colorClass":"icon-henka",
+    "iconSymbol":"wind"
   },
   {
     "id":29,
@@ -229,7 +313,10 @@
     "name":"ウヴォーギン（推測）",
     "ability":"オーラの硬質化利用",
     "traits":"豪快・本能派",
-    "note":"基本は強化系だが性質変化描写あり"
+    "note":"基本は強化系だが性質変化描写あり",
+    "iconColor":"#3498db",
+    "colorClass":"icon-henka",
+    "iconSymbol":"zap"
   },
   {
     "id":30,
@@ -237,7 +324,10 @@
     "name":"ミルキ＝ゾルディック",
     "ability":"電子機器・武器強化",
     "traits":"ゲス・オタク気質",
-    "note":"技術者型の変化系適性アリ"
+    "note":"技術者型の変化系適性アリ",
+    "iconColor":"#3498db",
+    "colorClass":"icon-henka",
+    "iconSymbol":"wave"
   },
   {
     "id":31,
@@ -245,7 +335,10 @@
     "name":"モラウ＝マッカーナーシ",
     "ability":"煙を自在に変化操作",
     "traits":"豪放磊落・柔軟",
-    "note":"煙操作の達人（操作系混合）"
+    "note":"煙操作の達人（操作系混合）",
+    "iconColor":"#3498db",
+    "colorClass":"icon-henka",
+    "iconSymbol":"cycle"
   },
   {
     "id":32,
@@ -253,7 +346,10 @@
     "name":"ブロヴーダ",
     "ability":"巨体オーラ変化",
     "traits":"怪力・鈍重",
-    "note":"キメラアント"
+    "note":"キメラアント",
+    "iconColor":"#3498db",
+    "colorClass":"icon-henka",
+    "iconSymbol":"wind"
   },
   {
     "id":33,
@@ -261,7 +357,10 @@
     "name":"サカタ（GIモブ）",
     "ability":"オーラを剣に変化",
     "traits":"冷静・職人型",
-    "note":"ゲーム内キャラ"
+    "note":"ゲーム内キャラ",
+    "iconColor":"#3498db",
+    "colorClass":"icon-henka",
+    "iconSymbol":"zap"
   },
   {
     "id":34,
@@ -269,7 +368,10 @@
     "name":"カルト＝ゾルディック",
     "ability":"紙人形操作＋紙変化",
     "traits":"無口・陰湿",
-    "note":"操作混合型だが変化要素強め"
+    "note":"操作混合型だが変化要素強め",
+    "iconColor":"#3498db",
+    "colorClass":"icon-henka",
+    "iconSymbol":"wave"
   },
   {
     "id":35,
@@ -277,7 +379,10 @@
     "name":"ベレー帽の念獣使い（王位継承戦）",
     "ability":"念獣変化・制御",
     "traits":"不明（戦闘センス高）",
-    "note":"私設兵隊長クラス"
+    "note":"私設兵隊長クラス",
+    "iconColor":"#3498db",
+    "colorClass":"icon-henka",
+    "iconSymbol":"cycle"
   },
   {
     "id":36,
@@ -285,7 +390,10 @@
     "name":"ノブナガ＝ハザマ",
     "ability":"円の硬質化・制御",
     "traits":"短気・単純",
-    "note":"操作寄りもあるが変化寄り円使い"
+    "note":"操作寄りもあるが変化寄り円使い",
+    "iconColor":"#3498db",
+    "colorClass":"icon-henka",
+    "iconSymbol":"wind"
   },
   {
     "id":37,
@@ -293,7 +401,10 @@
     "name":"スナイパー系ハンター（GI）",
     "ability":"オーラ弾丸化",
     "traits":"無口・クール",
-    "note":"飛び道具特化タイプ"
+    "note":"飛び道具特化タイプ",
+    "iconColor":"#3498db",
+    "colorClass":"icon-henka",
+    "iconSymbol":"zap"
   },
   {
     "id":38,
@@ -301,7 +412,10 @@
     "name":"ヒュリコフ",
     "ability":"バリア型オーラ変化",
     "traits":"冷静・観察力",
-    "note":"ハンター協会"
+    "note":"ハンター協会",
+    "iconColor":"#3498db",
+    "colorClass":"icon-henka",
+    "iconSymbol":"wave"
   },
   {
     "id":39,
@@ -309,7 +423,10 @@
     "name":"トチーノ",
     "ability":"トランプ型オーラ変化",
     "traits":"残忍・趣味全開",
-    "note":"マフィア・ヒットマン"
+    "note":"マフィア・ヒットマン",
+    "iconColor":"#3498db",
+    "colorClass":"icon-henka",
+    "iconSymbol":"cycle"
   },
   {
     "id":40,
@@ -317,7 +434,10 @@
     "name":"オロソ兄妹",
     "ability":"体質変化（オーラで毒）",
     "traits":"異常者・快楽殺人",
-    "note":"流星街の殺し屋"
+    "note":"流星街の殺し屋",
+    "iconColor":"#3498db",
+    "colorClass":"icon-henka",
+    "iconSymbol":"wind"
   },
   {
     "id":41,
@@ -325,7 +445,10 @@
     "name":"クラピカ",
     "ability":"鎖（チェーンジェイル）",
     "traits":"執念・超準備型",
-    "note":"復讐特化・特質併用"
+    "note":"復讐特化・特質併用",
+    "iconColor":"#9b59b6",
+    "colorClass":"icon-gugenka",
+    "iconSymbol":"target"
   },
   {
     "id":42,
@@ -333,7 +456,10 @@
     "name":"シズク＝ムラサキ",
     "ability":"デメちゃん（掃除機具現化）",
     "traits":"天然・マイペース",
-    "note":"幻影旅団No.8"
+    "note":"幻影旅団No.8",
+    "iconColor":"#9b59b6",
+    "colorClass":"icon-gugenka",
+    "iconSymbol":"cube"
   },
   {
     "id":43,
@@ -341,7 +467,10 @@
     "name":"コルトピ＝トノフメイル",
     "ability":"ギャラリーフェイク（コピー）",
     "traits":"無口・職人型",
-    "note":"物を大量に複製可能"
+    "note":"物を大量に複製可能",
+    "iconColor":"#9b59b6",
+    "colorClass":"icon-gugenka",
+    "iconSymbol":"chain"
   },
   {
     "id":44,
@@ -349,7 +478,10 @@
     "name":"ゴレイヌ",
     "ability":"ゴリラの具現化・瞬間移動",
     "traits":"真面目・努力家",
-    "note":"地味に応用力高い"
+    "note":"地味に応用力高い",
+    "iconColor":"#9b59b6",
+    "colorClass":"icon-gugenka",
+    "iconSymbol":"lock"
   },
   {
     "id":45,
@@ -357,7 +489,10 @@
     "name":"カイト",
     "ability":"クレイジースロット（武器ガチャ）",
     "traits":"クール・冷静",
-    "note":"特定条件で武器具現化"
+    "note":"特定条件で武器具現化",
+    "iconColor":"#9b59b6",
+    "colorClass":"icon-gugenka",
+    "iconSymbol":"target"
   },
   {
     "id":46,
@@ -365,7 +500,10 @@
     "name":"ゲンスルー",
     "ability":"リトルフラワー（爆弾）",
     "traits":"残虐・策略家",
-    "note":"爆破系具現化の鬼才"
+    "note":"爆破系具現化の鬼才",
+    "iconColor":"#9b59b6",
+    "colorClass":"icon-gugenka",
+    "iconSymbol":"cube"
   },
   {
     "id":47,
@@ -373,7 +511,10 @@
     "name":"バショウ",
     "ability":"詩の具現化（炎など）",
     "traits":"豪快・短気",
-    "note":"ダジャレや一句を詠む必要あり"
+    "note":"ダジャレや一句を詠む必要あり",
+    "iconColor":"#9b59b6",
+    "colorClass":"icon-gugenka",
+    "iconSymbol":"chain"
   },
   {
     "id":48,
@@ -381,7 +522,10 @@
     "name":"カストロ",
     "ability":"ダブル（自分のコピー）",
     "traits":"努力家・実直",
-    "note":"念メモリ問題の有名例"
+    "note":"念メモリ問題の有名例",
+    "iconColor":"#9b59b6",
+    "colorClass":"icon-gugenka",
+    "iconSymbol":"lock"
   },
   {
     "id":49,
@@ -389,7 +533,10 @@
     "name":"エリザ（GIモブ）",
     "ability":"ロープ具現化",
     "traits":"クール・慎重派",
-    "note":"ゲーム内キャラ"
+    "note":"ゲーム内キャラ",
+    "iconColor":"#9b59b6",
+    "colorClass":"icon-gugenka",
+    "iconSymbol":"target"
   },
   {
     "id":50,
@@ -397,7 +544,10 @@
     "name":"ジャンバール（王位継承戦）",
     "ability":"防具具現化（盾など）",
     "traits":"無骨・忠義者",
-    "note":"ビルの護衛仲間"
+    "note":"ビルの護衛仲間",
+    "iconColor":"#9b59b6",
+    "colorClass":"icon-gugenka",
+    "iconSymbol":"cube"
   },
   {
     "id":51,
@@ -405,7 +555,10 @@
     "name":"サンビカ",
     "ability":"人形具現化",
     "traits":"謎多き女性・芸術家気質",
-    "note":"マフィア系念能力者"
+    "note":"マフィア系念能力者",
+    "iconColor":"#9b59b6",
+    "colorClass":"icon-gugenka",
+    "iconSymbol":"chain"
   },
   {
     "id":52,
@@ -413,7 +566,10 @@
     "name":"ブルトナム（王位編）",
     "ability":"銃型具現化",
     "traits":"冷酷・ヒットマン",
-    "note":"護衛兵"
+    "note":"護衛兵",
+    "iconColor":"#9b59b6",
+    "colorClass":"icon-gugenka",
+    "iconSymbol":"lock"
   },
   {
     "id":53,
@@ -421,7 +577,10 @@
     "name":"マチ＝コマチネ（サブ能力説）",
     "ability":"念糸が具現化寄り描写あり",
     "traits":"職人型",
-    "note":"厳密には変化寄り混合"
+    "note":"厳密には変化寄り混合",
+    "iconColor":"#9b59b6",
+    "colorClass":"icon-gugenka",
+    "iconSymbol":"target"
   },
   {
     "id":54,
@@ -429,7 +588,10 @@
     "name":"ベレー帽の私設兵",
     "ability":"盾・鎧型具現化",
     "traits":"実直・忠義",
-    "note":"王位継承戦護衛"
+    "note":"王位継承戦護衛",
+    "iconColor":"#9b59b6",
+    "colorClass":"icon-gugenka",
+    "iconSymbol":"cube"
   },
   {
     "id":55,
@@ -437,7 +599,10 @@
     "name":"ジャイロ兵（推測）",
     "ability":"武器具現化",
     "traits":"粗暴・肉体派",
-    "note":"キメラアントの中に存在可能性高"
+    "note":"キメラアントの中に存在可能性高",
+    "iconColor":"#9b59b6",
+    "colorClass":"icon-gugenka",
+    "iconSymbol":"chain"
   },
   {
     "id":56,
@@ -445,7 +610,10 @@
     "name":"チョウライ私設兵（王位）",
     "ability":"トラップ具現化",
     "traits":"策士・罠師",
-    "note":"守護専門型"
+    "note":"守護専門型",
+    "iconColor":"#9b59b6",
+    "colorClass":"icon-gugenka",
+    "iconSymbol":"lock"
   },
   {
     "id":57,
@@ -453,7 +621,10 @@
     "name":"アモリ兄弟（GI）",
     "ability":"ハンマー具現化",
     "traits":"仲良し三兄弟",
-    "note":"防御主体"
+    "note":"防御主体",
+    "iconColor":"#9b59b6",
+    "colorClass":"icon-gugenka",
+    "iconSymbol":"target"
   },
   {
     "id":58,
@@ -461,7 +632,10 @@
     "name":"ベレーの能力者（マフィア）",
     "ability":"ネズミ型具現化",
     "traits":"情報収集・小動物使い",
-    "note":"王位継承戦マフィア勢力"
+    "note":"王位継承戦マフィア勢力",
+    "iconColor":"#9b59b6",
+    "colorClass":"icon-gugenka",
+    "iconSymbol":"cube"
   },
   {
     "id":59,
@@ -469,7 +643,10 @@
     "name":"ロドリオ（キメラアント）",
     "ability":"機械型具現化",
     "traits":"無口・合理主義",
-    "note":"兵器的能力者"
+    "note":"兵器的能力者",
+    "iconColor":"#9b59b6",
+    "colorClass":"icon-gugenka",
+    "iconSymbol":"chain"
   },
   {
     "id":60,
@@ -477,7 +654,10 @@
     "name":"アベンガネ",
     "ability":"呪い解除用の具現化能力",
     "traits":"ストイック・真面目",
-    "note":"除念師の一人"
+    "note":"除念師の一人",
+    "iconColor":"#9b59b6",
+    "colorClass":"icon-gugenka",
+    "iconSymbol":"lock"
   },
   {
     "id":61,
@@ -485,7 +665,10 @@
     "name":"フランクリン＝ボルドー",
     "ability":"ダブルマシンガン（指からオーラ弾）",
     "traits":"無口・攻撃的",
-    "note":"幻影旅団No.7"
+    "note":"幻影旅団No.7",
+    "iconColor":"#f39c12",
+    "colorClass":"icon-houshutsu",
+    "iconSymbol":"circle"
   },
   {
     "id":62,
@@ -493,7 +676,10 @@
     "name":"レオリオ＝パラディナイト",
     "ability":"空間パンチ（遠隔攻撃）",
     "traits":"熱血・情に厚い",
-    "note":"回復職から進化"
+    "note":"回復職から進化",
+    "iconColor":"#f39c12",
+    "colorClass":"icon-houshutsu",
+    "iconSymbol":"sun"
   },
   {
     "id":63,
@@ -501,7 +687,10 @@
     "name":"ナックル＝バイン",
     "ability":"ハコワレ（利息蓄積→強制絶）",
     "traits":"熱血・お人好し",
-    "note":"放出＋操作寄り"
+    "note":"放出＋操作寄り",
+    "iconColor":"#f39c12",
+    "colorClass":"icon-houshutsu",
+    "iconSymbol":"arrow-up"
   },
   {
     "id":64,
@@ -509,7 +698,10 @@
     "name":"モントゥトゥユピー",
     "ability":"形態変化＋突進型火力",
     "traits":"激昂型・純粋",
-    "note":"キメラアント王直属護衛"
+    "note":"キメラアント王直属護衛",
+    "iconColor":"#f39c12",
+    "colorClass":"icon-houshutsu",
+    "iconSymbol":"bolt"
   },
   {
     "id":65,
@@ -517,7 +709,10 @@
     "name":"レイザー",
     "ability":"デビルズボール（念球投擲）",
     "traits":"豪快・スポーツマン",
-    "note":"GIのゲームマスター"
+    "note":"GIのゲームマスター",
+    "iconColor":"#f39c12",
+    "colorClass":"icon-houshutsu",
+    "iconSymbol":"circle"
   },
   {
     "id":66,
@@ -525,7 +720,10 @@
     "name":"シュート＝マクマホン",
     "ability":"遠隔攻撃（手を飛ばす）",
     "traits":"内気・不安定",
-    "note":"放出＋具現化の混合型"
+    "note":"放出＋具現化の混合型",
+    "iconColor":"#f39c12",
+    "colorClass":"icon-houshutsu",
+    "iconSymbol":"sun"
   },
   {
     "id":67,
@@ -533,7 +731,10 @@
     "name":"ヂートゥ",
     "ability":"高速移動＋念ビーム",
     "traits":"落ち着きゼロ・衝動型",
-    "note":"キメラアント"
+    "note":"キメラアント",
+    "iconColor":"#f39c12",
+    "colorClass":"icon-houshutsu",
+    "iconSymbol":"arrow-up"
   },
   {
     "id":68,
@@ -541,7 +742,10 @@
     "name":"サレサレ＝ホイコーロ",
     "ability":"フィールド系放出（守護霊獣）",
     "traits":"軽薄・享楽的",
-    "note":"王位継承戦・第8王子"
+    "note":"王位継承戦・第8王子",
+    "iconColor":"#f39c12",
+    "colorClass":"icon-houshutsu",
+    "iconSymbol":"bolt"
   },
   {
     "id":69,
@@ -549,7 +753,10 @@
     "name":"ブロヴーダ",
     "ability":"突進型パワー系放出",
     "traits":"無口・巨体",
-    "note":"キメラアント"
+    "note":"キメラアント",
+    "iconColor":"#f39c12",
+    "colorClass":"icon-houshutsu",
+    "iconSymbol":"circle"
   },
   {
     "id":70,
@@ -557,7 +764,10 @@
     "name":"ラモット",
     "ability":"再生＆突進オーラ",
     "traits":"好戦的・狂気",
-    "note":"キメラアント兵"
+    "note":"キメラアント兵",
+    "iconColor":"#f39c12",
+    "colorClass":"icon-houshutsu",
+    "iconSymbol":"sun"
   },
   {
     "id":71,
@@ -565,7 +775,10 @@
     "name":"ウェルフィン（発狂時）",
     "ability":"ミサイル連射型（狼尾）",
     "traits":"執念深い",
-    "note":"放出＋操作的挙動あり"
+    "note":"放出＋操作的挙動あり",
+    "iconColor":"#f39c12",
+    "colorClass":"icon-houshutsu",
+    "iconSymbol":"arrow-up"
   },
   {
     "id":72,
@@ -573,7 +786,10 @@
     "name":"ビヨンド＝ネテロ派兵",
     "ability":"火力重視の謎能力者",
     "traits":"無口・軍人気質",
-    "note":"暗黒大陸編チーム"
+    "note":"暗黒大陸編チーム",
+    "iconColor":"#f39c12",
+    "colorClass":"icon-houshutsu",
+    "iconSymbol":"bolt"
   },
   {
     "id":73,
@@ -581,7 +797,10 @@
     "name":"アモリ兄弟（次男）",
     "ability":"飛び道具型ハンマー",
     "traits":"素直・防御より",
-    "note":"ゲーム内GI参加者"
+    "note":"ゲーム内GI参加者",
+    "iconColor":"#f39c12",
+    "colorClass":"icon-houshutsu",
+    "iconSymbol":"circle"
   },
   {
     "id":74,
@@ -589,7 +808,10 @@
     "name":"クルト（GIモブ）",
     "ability":"火の玉系オーラ放出",
     "traits":"積極的",
-    "note":"イベント戦で登場"
+    "note":"イベント戦で登場",
+    "iconColor":"#f39c12",
+    "colorClass":"icon-houshutsu",
+    "iconSymbol":"sun"
   },
   {
     "id":75,
@@ -597,7 +819,10 @@
     "name":"キメラアントの砲兵型",
     "ability":"全身大砲型の放出系",
     "traits":"忠誠心高い",
-    "note":"モブ寄りだが火力特化"
+    "note":"モブ寄りだが火力特化",
+    "iconColor":"#f39c12",
+    "colorClass":"icon-houshutsu",
+    "iconSymbol":"arrow-up"
   },
   {
     "id":76,
@@ -605,7 +830,10 @@
     "name":"王直属の警備兵A",
     "ability":"ランス型念",
     "traits":"真面目・任務重視",
-    "note":"火力系放出の可能性大"
+    "note":"火力系放出の可能性大",
+    "iconColor":"#f39c12",
+    "colorClass":"icon-houshutsu",
+    "iconSymbol":"bolt"
   },
   {
     "id":77,
@@ -613,7 +841,10 @@
     "name":"ラッキーマン",
     "ability":"玉のようなオーラ弾",
     "traits":"縁起担ぎ屋",
-    "note":"放出＋運要素あり"
+    "note":"放出＋運要素あり",
+    "iconColor":"#f39c12",
+    "colorClass":"icon-houshutsu",
+    "iconSymbol":"circle"
   },
   {
     "id":78,
@@ -621,7 +852,10 @@
     "name":"ヨコセ（王位編私設兵）",
     "ability":"オーラ火球",
     "traits":"忠義者",
-    "note":"近衛隊クラス"
+    "note":"近衛隊クラス",
+    "iconColor":"#f39c12",
+    "colorClass":"icon-houshutsu",
+    "iconSymbol":"sun"
   },
   {
     "id":79,
@@ -629,7 +863,10 @@
     "name":"ジャンケン勝負師",
     "ability":"グータイプ固定火力",
     "traits":"単純明快",
-    "note":"ゴン模倣型のプレイヤー"
+    "note":"ゴン模倣型のプレイヤー",
+    "iconColor":"#f39c12",
+    "colorClass":"icon-houshutsu",
+    "iconSymbol":"arrow-up"
   },
   {
     "id":80,
@@ -637,7 +874,10 @@
     "name":"キメラアントの空中型兵",
     "ability":"念弾連射",
     "traits":"飛行＋狙撃タイプ",
-    "note":"戦術型放出念使用"
+    "note":"戦術型放出念使用",
+    "iconColor":"#f39c12",
+    "colorClass":"icon-houshutsu",
+    "iconSymbol":"bolt"
   },
   {
     "id":81,
@@ -645,7 +885,10 @@
     "name":"シャルナーク＝リュウセイ",
     "ability":"ブラックボイス（アンテナ操作）",
     "traits":"知的・冷静・策士",
-    "note":"幻影旅団No.6"
+    "note":"幻影旅団No.6",
+    "iconColor":"#16a085",
+    "colorClass":"icon-sosa",
+    "iconSymbol":"network"
   },
   {
     "id":82,
@@ -653,7 +896,10 @@
     "name":"イルミ＝ゾルディック",
     "ability":"針による操作（肉体・行動支配）",
     "traits":"冷酷・機械的",
-    "note":"ゾルディック家長男"
+    "note":"ゾルディック家長男",
+    "iconColor":"#16a085",
+    "colorClass":"icon-sosa",
+    "iconSymbol":"arrow-right"
   },
   {
     "id":83,
@@ -661,7 +907,10 @@
     "name":"カルト＝ゾルディック",
     "ability":"紙人形操作",
     "traits":"内向的・陰湿",
-    "note":"ゾルディック家末弟"
+    "note":"ゾルディック家末弟",
+    "iconColor":"#16a085",
+    "colorClass":"icon-sosa",
+    "iconSymbol":"crown"
   },
   {
     "id":84,
@@ -669,7 +918,10 @@
     "name":"モラウ＝マッカーナーシ",
     "ability":"煙操作（ディープパープル）",
     "traits":"豪快・柔軟",
-    "note":"操作＋具現化の達人"
+    "note":"操作＋具現化の達人",
+    "iconColor":"#16a085",
+    "colorClass":"icon-sosa",
+    "iconSymbol":"control"
   },
   {
     "id":85,
@@ -677,7 +929,10 @@
     "name":"シュート＝マクマホン",
     "ability":"ホテル・ラフレシア（体パーツ封印）",
     "traits":"臆病・慎重",
-    "note":"操作＋具現化系"
+    "note":"操作＋具現化系",
+    "iconColor":"#16a085",
+    "colorClass":"icon-sosa",
+    "iconSymbol":"network"
   },
   {
     "id":86,
@@ -685,7 +940,10 @@
     "name":"ノブナガ＝ハザマ（円操作寄り）",
     "ability":"自分の円内で斬撃",
     "traits":"短気・武人肌",
-    "note":"操作要素含む動き"
+    "note":"操作要素含む動き",
+    "iconColor":"#16a085",
+    "colorClass":"icon-sosa",
+    "iconSymbol":"arrow-right"
   },
   {
     "id":87,
@@ -693,7 +951,10 @@
     "name":"バビマイナ",
     "ability":"武器操作（推測）",
     "traits":"冷静・忠実",
-    "note":"クラピカ護衛"
+    "note":"クラピカ護衛",
+    "iconColor":"#16a085",
+    "colorClass":"icon-sosa",
+    "iconSymbol":"crown"
   },
   {
     "id":88,
@@ -701,7 +962,10 @@
     "name":"サブ",
     "ability":"防具や道具操作",
     "traits":"寡黙・忠義",
-    "note":"ゲンスルーパーティ"
+    "note":"ゲンスルーパーティ",
+    "iconColor":"#16a085",
+    "colorClass":"icon-sosa",
+    "iconSymbol":"control"
   },
   {
     "id":89,
@@ -709,7 +973,10 @@
     "name":"バラ",
     "ability":"巨体操作（変形）",
     "traits":"無口・忠実",
-    "note":"ゲンスルーパーティ"
+    "note":"ゲンスルーパーティ",
+    "iconColor":"#16a085",
+    "colorClass":"icon-sosa",
+    "iconSymbol":"network"
   },
   {
     "id":90,
@@ -717,7 +984,10 @@
     "name":"ベレー帽の暗殺者",
     "ability":"小型念獣操作",
     "traits":"忠実・職人型",
-    "note":"王位継承戦の私設兵"
+    "note":"王位継承戦の私設兵",
+    "iconColor":"#16a085",
+    "colorClass":"icon-sosa",
+    "iconSymbol":"arrow-right"
   },
   {
     "id":91,
@@ -725,7 +995,10 @@
     "name":"チョウライ＝ホイコーロ",
     "ability":"念獣の条件発動型操作",
     "traits":"策士・権謀術数",
-    "note":"第3王子"
+    "note":"第3王子",
+    "iconColor":"#16a085",
+    "colorClass":"icon-sosa",
+    "iconSymbol":"crown"
   },
   {
     "id":92,
@@ -733,7 +1006,10 @@
     "name":"ルズールス＝ホイコーロ",
     "ability":"念獣操作型",
     "traits":"冷静・実利主義",
-    "note":"第4王子"
+    "note":"第4王子",
+    "iconColor":"#16a085",
+    "colorClass":"icon-sosa",
+    "iconSymbol":"control"
   },
   {
     "id":93,
@@ -741,7 +1017,10 @@
     "name":"モモゼ＝ホイコーロ",
     "ability":"念獣による情報収集操作",
     "traits":"無邪気・純粋",
-    "note":"第12王子"
+    "note":"第12王子",
+    "iconColor":"#16a085",
+    "colorClass":"icon-sosa",
+    "iconSymbol":"network"
   },
   {
     "id":94,
@@ -749,7 +1028,10 @@
     "name":"ヒュリコフ",
     "ability":"バリア型念の制御操作",
     "traits":"真面目・観察型",
-    "note":"ハンター協会"
+    "note":"ハンター協会",
+    "iconColor":"#16a085",
+    "colorClass":"icon-sosa",
+    "iconSymbol":"arrow-right"
   },
   {
     "id":95,
@@ -757,7 +1039,10 @@
     "name":"オニオール",
     "ability":"念での情報操作",
     "traits":"冷静・残酷",
-    "note":"マフィア組長"
+    "note":"マフィア組長",
+    "iconColor":"#16a085",
+    "colorClass":"icon-sosa",
+    "iconSymbol":"crown"
   },
   {
     "id":96,
@@ -765,7 +1050,10 @@
     "name":"サッチョウ＝コバヤカワ",
     "ability":"人心掌握の達人",
     "traits":"正義感・冷静",
-    "note":"十二支ん"
+    "note":"十二支ん",
+    "iconColor":"#16a085",
+    "colorClass":"icon-sosa",
+    "iconSymbol":"control"
   },
   {
     "id":97,
@@ -773,7 +1061,10 @@
     "name":"ミザイストム＝ナナ",
     "ability":"念による制約・管理型操作",
     "traits":"公正・理知的",
-    "note":"十二支ん審判役"
+    "note":"十二支ん審判役",
+    "iconColor":"#16a085",
+    "colorClass":"icon-sosa",
+    "iconSymbol":"network"
   },
   {
     "id":98,
@@ -781,7 +1072,10 @@
     "name":"サイユウ",
     "ability":"念棒の操り操作",
     "traits":"職人気質・冷静",
-    "note":"十二支ん棒術使い"
+    "note":"十二支ん棒術使い",
+    "iconColor":"#16a085",
+    "colorClass":"icon-sosa",
+    "iconSymbol":"arrow-right"
   },
   {
     "id":99,
@@ -789,7 +1083,10 @@
     "name":"ゲンスルー（副能力）",
     "ability":"カウントダウン（触れた相手の爆破）",
     "traits":"冷酷・理知的",
-    "note":"具現＋操作系ミックス"
+    "note":"具現＋操作系ミックス",
+    "iconColor":"#16a085",
+    "colorClass":"icon-sosa",
+    "iconSymbol":"crown"
   },
   {
     "id":100,
@@ -797,7 +1094,10 @@
     "name":"フェイタン（拷問時）",
     "ability":"道具操作・情報引き出し特化",
     "traits":"残虐・冷酷",
-    "note":"具現寄り戦闘操作も得意"
+    "note":"具現寄り戦闘操作も得意",
+    "iconColor":"#16a085",
+    "colorClass":"icon-sosa",
+    "iconSymbol":"control"
   },
   {
     "id":101,
@@ -805,7 +1105,10 @@
     "name":"クラピカ（緋の目時）",
     "ability":"絶対時間（全系統100%）",
     "traits":"執念・理知的",
-    "note":"条件付きで特質系に移行"
+    "note":"条件付きで特質系に移行",
+    "iconColor":"#8e44ad",
+    "colorClass":"icon-tokushitsu",
+    "iconSymbol":"eye"
   },
   {
     "id":102,
@@ -813,7 +1116,10 @@
     "name":"クロロ＝ルシルフル",
     "ability":"スキルハンター（他人の念を盗む）",
     "traits":"冷静・カリスマ",
-    "note":"旅団リーダー"
+    "note":"旅団リーダー",
+    "iconColor":"#8e44ad",
+    "colorClass":"icon-tokushitsu",
+    "iconSymbol":"star-crown"
   },
   {
     "id":103,
@@ -821,7 +1127,10 @@
     "name":"ネオン＝ノストラード",
     "ability":"ラブリーゴーストライター（予知）",
     "traits":"気まぐれ・無邪気",
-    "note":"自覚なしの特質型"
+    "note":"自覚なしの特質型",
+    "iconColor":"#8e44ad",
+    "colorClass":"icon-tokushitsu",
+    "iconSymbol":"infinity"
   },
   {
     "id":104,
@@ -829,7 +1138,10 @@
     "name":"メルエム",
     "ability":"吸収・適応・複合念能力",
     "traits":"王としての威厳と知性",
-    "note":"キメラアント王"
+    "note":"キメラアント王",
+    "iconColor":"#8e44ad",
+    "colorClass":"icon-tokushitsu",
+    "iconSymbol":"gem"
   },
   {
     "id":105,
@@ -837,7 +1149,10 @@
     "name":"ネフェルピトー",
     "ability":"ドクターブライス・テレプシコーラ",
     "traits":"猫型・王忠誠",
-    "note":"複合型の化け物"
+    "note":"複合型の化け物",
+    "iconColor":"#8e44ad",
+    "colorClass":"icon-tokushitsu",
+    "iconSymbol":"eye"
   },
   {
     "id":106,
@@ -845,7 +1160,10 @@
     "name":"シャウアプフ",
     "ability":"精神操作（スピリチュアルメッセージ）",
     "traits":"神経質・忠誠",
-    "note":"心と感情への干渉"
+    "note":"心と感情への干渉",
+    "iconColor":"#8e44ad",
+    "colorClass":"icon-tokushitsu",
+    "iconSymbol":"star-crown"
   },
   {
     "id":107,
@@ -853,7 +1171,10 @@
     "name":"パーム＝シベリア",
     "ability":"ブラックゴッドブティック（予知・追跡）",
     "traits":"情緒不安定・激情",
-    "note":"覚醒後は完全に特質系化"
+    "note":"覚醒後は完全に特質系化",
+    "iconColor":"#8e44ad",
+    "colorClass":"icon-tokushitsu",
+    "iconSymbol":"infinity"
   },
   {
     "id":108,
@@ -861,7 +1182,10 @@
     "name":"センリツ",
     "ability":"音で感情を読み取る",
     "traits":"穏やか・繊細",
-    "note":"人格者で支援型"
+    "note":"人格者で支援型",
+    "iconColor":"#8e44ad",
+    "colorClass":"icon-tokushitsu",
+    "iconSymbol":"gem"
   },
   {
     "id":109,
@@ -869,7 +1193,10 @@
     "name":"メロエロン",
     "ability":"神の不在証明（透明化＋気配ゼロ）",
     "traits":"臆病・仲間思い",
-    "note":"複雑な条件系"
+    "note":"複雑な条件系",
+    "iconColor":"#8e44ad",
+    "colorClass":"icon-tokushitsu",
+    "iconSymbol":"eye"
   },
   {
     "id":110,
@@ -877,7 +1204,10 @@
     "name":"カミーラ＝ホイコーロ",
     "ability":"自動反撃系（念獣）",
     "traits":"高慢・自己愛強い",
-    "note":"死後発動型"
+    "note":"死後発動型",
+    "iconColor":"#8e44ad",
+    "colorClass":"icon-tokushitsu",
+    "iconSymbol":"star-crown"
   },
   {
     "id":111,
@@ -885,7 +1215,10 @@
     "name":"ハルケンブルグ＝ホイコーロ",
     "ability":"団結強化＋守護念獣",
     "traits":"理想主義・カリスマ",
-    "note":"精神力型最強候補"
+    "note":"精神力型最強候補",
+    "iconColor":"#8e44ad",
+    "colorClass":"icon-tokushitsu",
+    "iconSymbol":"infinity"
   },
   {
     "id":112,
@@ -893,7 +1226,10 @@
     "name":"マラヤーム＝ホイコーロ",
     "ability":"無意識系守護念獣",
     "traits":"内向的・純粋",
-    "note":"念獣の精密さが異常"
+    "note":"念獣の精密さが異常",
+    "iconColor":"#8e44ad",
+    "colorClass":"icon-tokushitsu",
+    "iconSymbol":"gem"
   },
   {
     "id":113,
@@ -901,7 +1237,10 @@
     "name":"フウゲツ＝ホイコーロ",
     "ability":"扉型の双方向ワープ能力",
     "traits":"おとなしく思慮深い",
-    "note":"姉との絆がトリガー"
+    "note":"姉との絆がトリガー",
+    "iconColor":"#8e44ad",
+    "colorClass":"icon-tokushitsu",
+    "iconSymbol":"eye"
   },
   {
     "id":114,
@@ -909,7 +1248,10 @@
     "name":"カチョウ＝ホイコーロ",
     "ability":"死後発動での守護",
     "traits":"勇敢で姉妹愛が強い",
-    "note":"特質系らしい異常性能"
+    "note":"特質系らしい異常性能",
+    "iconColor":"#8e44ad",
+    "colorClass":"icon-tokushitsu",
+    "iconSymbol":"star-crown"
   },
   {
     "id":115,
@@ -917,7 +1259,10 @@
     "name":"ビヨンド＝ネテロ",
     "ability":"未発表・特質確定視",
     "traits":"野心家・豪胆",
-    "note":"暗黒大陸編リーダー格"
+    "note":"暗黒大陸編リーダー格",
+    "iconColor":"#8e44ad",
+    "colorClass":"icon-tokushitsu",
+    "iconSymbol":"infinity"
   },
   {
     "id":116,
@@ -925,7 +1270,10 @@
     "name":"ツェリードニヒ＝ホイコーロ",
     "ability":"時間停止＋念獣（超特質）",
     "traits":"残虐・天才・変態",
-    "note":"王位継承戦の異物"
+    "note":"王位継承戦の異物",
+    "iconColor":"#8e44ad",
+    "colorClass":"icon-tokushitsu",
+    "iconSymbol":"gem"
   },
   {
     "id":117,
@@ -933,7 +1281,10 @@
     "name":"モレナ＝プルード",
     "ability":"感染・念進化",
     "traits":"狂信的・カリスマ",
-    "note":"念能力の進化ウイルス"
+    "note":"念能力の進化ウイルス",
+    "iconColor":"#8e44ad",
+    "colorClass":"icon-tokushitsu",
+    "iconSymbol":"eye"
   },
   {
     "id":118,
@@ -941,7 +1292,10 @@
     "name":"パクノダ",
     "ability":"記憶弾（読み取り・伝達）",
     "traits":"情に厚い・忠義",
-    "note":"情報特化の特質操作混合型"
+    "note":"情報特化の特質操作混合型",
+    "iconColor":"#8e44ad",
+    "colorClass":"icon-tokushitsu",
+    "iconSymbol":"star-crown"
   },
   {
     "id":119,
@@ -949,7 +1303,10 @@
     "name":"イズナビ",
     "ability":"詳細不明（特質系訓練）",
     "traits":"クラピカの師匠",
-    "note":"教育型・理論派"
+    "note":"教育型・理論派",
+    "iconColor":"#8e44ad",
+    "colorClass":"icon-tokushitsu",
+    "iconSymbol":"infinity"
   },
   {
     "id":120,
@@ -957,6 +1314,9 @@
     "name":"ツベッパ＝ホイコーロ",
     "ability":"念の分裂・複製特性あり？",
     "traits":"冷静・情報管理型",
-    "note":"念能力未確定だが特質有力"
+    "note":"念能力未確定だが特質有力",
+    "iconColor":"#8e44ad",
+    "colorClass":"icon-tokushitsu",
+    "iconSymbol":"gem"
   }
 ]
